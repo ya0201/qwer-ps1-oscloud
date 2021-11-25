@@ -1,6 +1,3 @@
-#!/usr/bin/env zsh
-
-
 if [[ -n $OS_CLOUD ]]; then
   echo "oscloud: ${OS_CLOUD}"
 else
